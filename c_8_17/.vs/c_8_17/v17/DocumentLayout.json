@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C(github)\\C_CODE-github-\\c_8_17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{239181BE-F2E2-41AD-B5BF-7E87D3A3A8E1}|c_8_17\\c_8_17.vcxproj|D:\\C(github)\\C_CODE-github-\\c_8_17\\c_8_17\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{239181BE-F2E2-41AD-B5BF-7E87D3A3A8E1}|c_8_17\\c_8_17.vcxproj|solutionrelative:c_8_17\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\C(github)\\C_CODE-github-\\c_8_17\\c_8_17\\test.c",
+              "RelativeDocumentMoniker": "c_8_17\\test.c",
+              "ToolTip": "D:\\C(github)\\C_CODE-github-\\c_8_17\\c_8_17\\test.c",
+              "RelativeToolTip": "c_8_17\\test.c",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAcwFEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-17T04:05:20.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
