@@ -15,10 +15,37 @@ void testShellSort()
 	PrintArray(a, 10);
 }
 
+void testSelectSort()
+{
+	int a[10] = { 7,3,5,2,6,9,1,8,4,0 };
+	SelectSort(a, 10);
+	PrintArray(a, 10);
+}
+
+void testHeapSort()
+{
+	int a[10] = { 7,3,5,2,6,9,1,8,4,0 };
+	HeapSort(a, 10);
+	PrintArray(a, 10);
+}
+
+void testBubbleSort()
+{
+	int a[10] = { 7,3,5,2,6,9,1,8,4,0 };
+	BubbleSort(a, 10);
+	PrintArray(a, 10);
+}
+
 int main()
 {
-	testInsetSort();
-	printf("\n");
-	testShellSort();
+	//testInsetSort();
+	//printf("\n");
+	//testShellSort();
+	//printf("\n");
+	//testSelectSort();
+	//printf("\n");
+	//testHeapSort();
+	testBubbleSort();
+
 	return 0;
 }
