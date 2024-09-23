@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{9B5385F0-2D6E-44D9-8014-EDC1CAD0CE1B}|c_9_18 Sort\\c_9_18 Sort.vcxproj|solutionrelative:c_9_18 Sort\\Sort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9B5385F0-2D6E-44D9-8014-EDC1CAD0CE1B}|c_9_18 Sort\\c_9_18 Sort.vcxproj|D:\\C(github)\\C_CODE-github-\\c_9_18 Sort\\c_9_18 Sort\\Sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B5385F0-2D6E-44D9-8014-EDC1CAD0CE1B}|c_9_18 Sort\\c_9_18 Sort.vcxproj|solutionrelative:c_9_18 Sort\\Sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B5385F0-2D6E-44D9-8014-EDC1CAD0CE1B}|c_9_18 Sort\\c_9_18 Sort.vcxproj|D:\\C(github)\\C_CODE-github-\\c_9_18 Sort\\c_9_18 Sort\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9B5385F0-2D6E-44D9-8014-EDC1CAD0CE1B}|c_9_18 Sort\\c_9_18 Sort.vcxproj|solutionrelative:c_9_18 Sort\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B5385F0-2D6E-44D9-8014-EDC1CAD0CE1B}|c_9_18 Sort\\c_9_18 Sort.vcxproj|D:\\C(github)\\C_CODE-github-\\c_9_18 Sort\\c_9_18 Sort\\Sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9B5385F0-2D6E-44D9-8014-EDC1CAD0CE1B}|c_9_18 Sort\\c_9_18 Sort.vcxproj|solutionrelative:c_9_18 Sort\\Sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9B5385F0-2D6E-44D9-8014-EDC1CAD0CE1B}|c_9_18 Sort\\c_9_18 Sort.vcxproj|D:\\C(github)\\C_CODE-github-\\c_9_18 Sort\\c_9_18 Sort\\Stack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B5385F0-2D6E-44D9-8014-EDC1CAD0CE1B}|c_9_18 Sort\\c_9_18 Sort.vcxproj|solutionrelative:c_9_18 Sort\\Stack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5385F0-2D6E-44D9-8014-EDC1CAD0CE1B}|c_9_18 Sort\\c_9_18 Sort.vcxproj|D:\\C(github)\\C_CODE-github-\\c_9_18 Sort\\c_9_18 Sort\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B5385F0-2D6E-44D9-8014-EDC1CAD0CE1B}|c_9_18 Sort\\c_9_18 Sort.vcxproj|solutionrelative:c_9_18 Sort\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 176,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +42,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "Stack.h",
+              "DocumentMoniker": "D:\\C(github)\\C_CODE-github-\\c_9_18 Sort\\c_9_18 Sort\\Stack.h",
+              "RelativeDocumentMoniker": "c_9_18 Sort\\Stack.h",
+              "ToolTip": "D:\\C(github)\\C_CODE-github-\\c_9_18 Sort\\c_9_18 Sort\\Stack.h",
+              "RelativeToolTip": "c_9_18 Sort\\Stack.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-23T15:04:16.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stack.c",
+              "DocumentMoniker": "D:\\C(github)\\C_CODE-github-\\c_9_18 Sort\\c_9_18 Sort\\Stack.c",
+              "RelativeDocumentMoniker": "c_9_18 Sort\\Stack.c",
+              "ToolTip": "D:\\C(github)\\C_CODE-github-\\c_9_18 Sort\\c_9_18 Sort\\Stack.c",
+              "RelativeToolTip": "c_9_18 Sort\\Stack.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-23T15:04:30.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Sort.h",
               "DocumentMoniker": "D:\\C(github)\\C_CODE-github-\\c_9_18 Sort\\c_9_18 Sort\\Sort.h",
               "RelativeDocumentMoniker": "c_9_18 Sort\\Sort.h",
               "ToolTip": "D:\\C(github)\\C_CODE-github-\\c_9_18 Sort\\c_9_18 Sort\\Sort.h",
               "RelativeToolTip": "c_9_18 Sort\\Sort.h",
-              "ViewState": "AgIAABIAAAAAAAAAAAAQwBoAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-18T15:13:55.409Z",
               "EditorCaption": ""
@@ -53,20 +87,20 @@
               "RelativeDocumentMoniker": "c_9_18 Sort\\Sort.c",
               "ToolTip": "D:\\C(github)\\C_CODE-github-\\c_9_18 Sort\\c_9_18 Sort\\Sort.c",
               "RelativeToolTip": "c_9_18 Sort\\Sort.c",
-              "ViewState": "AgIAAJcAAAAAAAAAAAAQwKEAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAACABAAAAAAAAAAAQwGwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-18T14:51:14.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "test.c",
               "DocumentMoniker": "D:\\C(github)\\C_CODE-github-\\c_9_18 Sort\\c_9_18 Sort\\test.c",
               "RelativeDocumentMoniker": "c_9_18 Sort\\test.c",
               "ToolTip": "D:\\C(github)\\C_CODE-github-\\c_9_18 Sort\\c_9_18 Sort\\test.c",
               "RelativeToolTip": "c_9_18 Sort\\test.c",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwC8AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAD8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-18T15:14:44.276Z",
               "EditorCaption": ""

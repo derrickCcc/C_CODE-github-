@@ -36,6 +36,20 @@ void testBubbleSort()
 	PrintArray(a, 10);
 }
 
+void testQuickSort()
+{
+	int a[10] = { 7,3,5,2,6,9,1,8,4,0 };
+	QuickSort(a, 0, 9);
+	PrintArray(a, 10);
+}
+
+void testQuickSortNonR()
+{
+	int a[10] = { 7,3,5,2,6,9,1,8,4,0 };
+	QuickSortNonR(a, 0, 9);
+	PrintArray(a, 10);
+}
+
 int main()
 {
 	//testInsetSort();
@@ -45,7 +59,8 @@ int main()
 	//testSelectSort();
 	//printf("\n");
 	//testHeapSort();
-	testBubbleSort();
-
+	//testBubbleSort();
+	//testQuickSort();
+	testQuickSortNonR();
 	return 0;
 }

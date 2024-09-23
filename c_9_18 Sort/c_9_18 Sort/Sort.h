@@ -1,7 +1,8 @@
 #pragma once
-#include<stdio.h>
-#include<stdlib.h>
-#include<time.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#include <assert.h>
 
 //打印数组
 void PrintArray(int* a,int n);
@@ -27,6 +28,8 @@ void HeapSort(int* a, int n);
 void BubbleSort(int* a, int n);
 
 // 快速排序递归实现
+//取中间值
+int GetMinIndex(int* a, int left, int right);
 // 快速排序hoare版本
 int PartSort1(int* a, int left, int right);
 // 快速排序挖坑法
