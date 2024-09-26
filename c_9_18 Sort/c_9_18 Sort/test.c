@@ -50,6 +50,20 @@ void testQuickSortNonR()
 	PrintArray(a, 10);
 }
 
+void testMergeSort()
+{
+	int a[8] = { 10,6,7,1,3,9,4,2 };
+	MergeSort(a, 8);
+	PrintArray(a, 8);
+}
+
+void testMergeSortNonR()
+{
+	int a[10] = { 7,3,5,2,6,9,1,8,4,0 };
+	MergeSortNonR(a, 10);
+	PrintArray(a, 10);
+}
+
 int main()
 {
 	//testInsetSort();
@@ -61,6 +75,8 @@ int main()
 	//testHeapSort();
 	//testBubbleSort();
 	//testQuickSort();
-	testQuickSortNonR();
+	//testQuickSortNonR();
+	//testMergeSort();
+	testMergeSortNonR();
 	return 0;
 }
